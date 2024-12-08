@@ -1,0 +1,10 @@
+streamlit==1.40.2
+langchain==0.0.318
+langchain-community==0.0.5
+ollama==0.0.7
+pydantic==2.1.1
+typing-extensions==4.5.0
+numpy==1.24.4
+pandas==1.5.3
+tornado==6.3.3
+protobuf==4.23.4
